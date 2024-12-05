@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 | Links comming soon | Links comming soon | Links comming soon | Links comming soon | Links comming soon |
 
 Contributions :  
-- Pazzi robotics --> Pizzaiolo robots : [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/fNpBDwYLi-Q?si=IWH9dBcrMv4-cRFl&t=52)
-- CCleaner Project --> Autonomus Robot [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Etoiles-ing/CCleaner_Project/wiki)
-- Mandovision --> VFX Live Action project : : [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=V6X5ws7rgIA)
+- Pazzi robotics --> Pizzaiolo robots : [![YouTube]](https://youtu.be/fNpBDwYLi-Q?si=IWH9dBcrMv4-cRFl&t=52)
+- CCleaner Project --> Autonomus Robot : [![GitHub]](https://github.com/Etoiles-ing/CCleaner_Project/wiki)
+- Mandovision --> VFX Live Action project : [![YouTube]](https://www.youtube.com/watch?v=V6X5ws7rgIA)
 
 
 <a href="https://www.linkedin.com/in/nicolas-deraisin-464206177/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
