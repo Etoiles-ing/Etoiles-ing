@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 | [![My Skills](https://skillicons.dev/icons?i=react,laravel,tailwind)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=rust,python)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=linux,gitlab,raspberrypi)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=blender)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=pr,ae)](https://skillicons.dev) |
 | Links comming soon | Links comming soon | Links comming soon | Links comming soon | Links comming soon |
 
-Contributions :  
+## Contributions :  
 - Pazzi robotics --> Pizzaiolo robots : [[YouTube]](https://youtu.be/fNpBDwYLi-Q?si=IWH9dBcrMv4-cRFl&t=52)
 - CCleaner Project --> Autonomus Robot : [[GitHub]](https://github.com/Etoiles-ing/CCleaner_Project/wiki)
 - Mandovision --> VFX Live Action project : [[YouTube]](https://www.youtube.com/watch?v=V6X5ws7rgIA)  
