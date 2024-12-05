@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+Welcome to my GitHub. Graduate from a Master of Engineering, I'm looking for a job in computer science. Versatile and specialized in AI, Computer Vision, Robotics and Virtual World (3D/VR/AR).  
+Open to relocating.
 
 <!--
 **Etoiles-ing/Etoiles-ing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,6 +25,9 @@ Here are some ideas to get you started:
 | [![My Skills](https://skillicons.dev/icons?i=react,laravel,tailwind)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=rust,python)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=linux,gitlab,raspberrypi)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=blender)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=pr,ae)](https://skillicons.dev) |
 | Links comming soon | Links comming soon | Links comming soon | Links comming soon | Links comming soon |
 
+
+<a href="https://www.linkedin.com/in/nicolas-deraisin-464206177/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
+<a href="mailto:nicolas.deraisin@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;
 
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
