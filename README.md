@@ -19,6 +19,13 @@ Here are some ideas to get you started:
 -->
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Etoiles-ing?cardType=level&theme=radical&preferLogin=false)](https://git.io/awesome-stats-card)  
 
+
+### Contributions :  
+- Pazzi robotics --> Pizzaiolo robots : [[YouTube]](https://youtu.be/fNpBDwYLi-Q?si=IWH9dBcrMv4-cRFl&t=52)
+- CCleaner Project --> Autonomus Robot : [[GitHub]](https://github.com/Etoiles-ing/CCleaner_Project/wiki)
+- Mandovision --> VFX Live Action project : [[YouTube]](https://www.youtube.com/watch?v=V6X5ws7rgIA)  
+
+
 | Web skills | Main languages | CI/CD and OS | 3D Skills | Some others skill |
 |:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=cpp,c)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=git,docker)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=unity,unreal)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=ps,ai)](https://skillicons.dev) |
