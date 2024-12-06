@@ -31,11 +31,6 @@ Here are some ideas to get you started:
 | [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=cpp,c)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=git,docker)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=unity,unreal)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=ps,ai)](https://skillicons.dev) |
 | [![My Skills](https://skillicons.dev/icons?i=react,laravel,tailwind)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=rust,python)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=linux,gitlab,raspberrypi)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=blender)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=pr,ae)](https://skillicons.dev) |
 | Links comming soon | Links comming soon | Links comming soon | Links comming soon | Links comming soon |
-
-### Contributions :  
-- Pazzi robotics --> Pizzaiolo robots : [[YouTube]](https://youtu.be/fNpBDwYLi-Q?si=IWH9dBcrMv4-cRFl&t=52)
-- CCleaner Project --> Autonomus Robot : [[GitHub]](https://github.com/Etoiles-ing/CCleaner_Project/wiki)
-- Mandovision --> VFX Live Action project : [[YouTube]](https://www.youtube.com/watch?v=V6X5ws7rgIA)  
   
 
 <a href="https://www.linkedin.com/in/nicolas-deraisin-464206177/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
